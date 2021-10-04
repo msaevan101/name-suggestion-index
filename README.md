@@ -74,4 +74,4 @@ If you have any questions or want to reach out to a maintainer, ping
 ## License
 
 **name-suggestion-index** is available under the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause).
-See the [LICENSE.md](LICENSE.md) file for more details.
+See the [LICENSE.md](LICENSE.md) file for more details about this repo.
